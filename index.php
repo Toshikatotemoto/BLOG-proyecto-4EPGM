@@ -10,6 +10,12 @@ $alimento2 = [
    "Calorias" => 266
    ];
 
+$alimento3 = [
+   "Nombre" => "lonche de pollo cantones y arros "
+   "Calorias" => 678
+   ];
+
+
 
 
 $menu = [
